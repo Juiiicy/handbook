@@ -1,4 +1,4 @@
-# What is Juiiicy?
+## What is Juiiicy?
 
 ### Juiiicy, a new way to refer and find design jobs.
 Juiiicy is a private community for designers to refer jobs to others or apply to jobs posted by others. Many of us receive many more job inquiries than we can handle every day. And there is no place to spread the word and to help those companies find the right talent. Nor any place to help other fellow designers find their next job. That’s why we created Juiiicy. Juiiicy is full of awesome freelance inquiries referred by the top designers in the industry.
