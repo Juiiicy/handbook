@@ -1,6 +1,6 @@
 ## What is Juiiicy?
 
-### Juiiicy, a new way to find the right talent.
+### Juiiicy, a new way to find the right talent
 We are a private community for freelance designers to refer a job or apply to one. Everyday a lot of companies sends out design inquiries. But you either never hear from designers or they are probably not available. That’s why we created Juiiicy. Juiiicy let’s a designer spread the word about your inquiry so other talented designers can apply to it. Thousands of talented creative are coming on Juiiicy everyday ready to take on a new job.
 
 ### Designer posting a job keep 7% 
